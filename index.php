@@ -8,5 +8,6 @@
 <body>
     <h1>TP1 GIT</h1>
     <p>Ceci est un fichier servant à tester les commandes de base de git</p>
+    <p>Merci de suivre à la lettre les instructions dictées par le document</p>
 </body>
 </html>
